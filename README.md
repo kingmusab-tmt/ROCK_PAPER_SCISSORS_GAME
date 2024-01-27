@@ -1,5 +1,10 @@
 #ROCK_PAPER_SCISSORS_GAME
 
-created using plain JavaScript and outputed on the console.
+created using 
+*JavaSCript
+*HTML
+*CSS
 
-GUI to be added later
+Part of ODin PRoject. 
+
+
